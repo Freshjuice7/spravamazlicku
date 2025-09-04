@@ -10,7 +10,7 @@ public class Main {
 
 
 int i =0;
-        ArrayList list = new ArrayList ();
+        ArrayList<Mazlicek> list = new ArrayList ();
 
         while(i <= 0){
             System.out.println("Co chceš dělat?");
